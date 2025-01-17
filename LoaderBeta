@@ -1,5 +1,5 @@
-local key = "KEY_005feb728f174274bc76eb445dcf6904"
-_G.Sky = true --change it to false if u don't want a custom skybox
+
+
 
 local KeyGuardLibrary = loadstring(game:HttpGet("https://cdn.keyguardian.org/library/v1.0.0.lua"))()
 local trueData = "70700b11d9974b46af6e65824dba8a95"
